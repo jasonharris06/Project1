@@ -1,6 +1,6 @@
 # Project1 
 
-'listlo' is an API-powered web application that pulls data from multiple sources
+'listlo' is an API-powered web application that takes the users input and searches for products from Best Buy and Walmart.  
 
 ## Code Featured Utilizes: ##
 
@@ -13,16 +13,3 @@
 - Bootstrap CSS Framework
 - User Input Validation
 
-## What this Project Does ## 
-
-This Project 
-
-## How users can get started with this project ## 
-
-1.
-
-2.
-
-3.
-
-## Who maintains this project ## 
